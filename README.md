@@ -6,7 +6,8 @@
 <a href="https://sm.ms/image/aus8qZozUGAkhVS" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40findyi-black?style=flat-square&logo=WeChat"></a>
 <a href="https://space.bilibili.com/7936249" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-%40findyi-black?style=flat-square&logo=Bilibili"></a>
 </p>
-### 经典编程书籍简介:
+
+###  经典编程书籍简介:
 我把大学和工作中用的经典电子书库（包含JAVA、数据结构、操作系统、C++/C、redis、mysql、算法、中间件、找工作面试题等）打包在一起了，这套资源是伴随我从学生一路成长为腾讯高级开发工程师，360技术总监的打包全套，非常宝贵。
 
 ### 食用指南
@@ -21,14 +22,14 @@
 <h2>目录</h2>
 [操作系统](#system)
 
-### <a name='system'></a> 操作系统
+###  <a name='system'></a> 操作系统
 - [图解系统-小林.pdf](https://pan.baidu.com/s/15zpEEhGLFy4gxv-44n8zJw?pwd=jo92)
 
 
 <h2>汇总</h2>
-我把电子书资源放在公众号【findyi】上了，扫码关注下面公众号，回复「pdf」 获取所有打包经典书籍资源：
-![](/images/all.jpg)
+我把电子书资源放在公众号【findyi】上了，扫码关注下面公众号，回复「pdf」 获取所有打包经典书籍资源:
+![](images/all.jpg)
 
 <h2>微信公众号</h2>
-![](/images/wechat.jpg)
+![](images/wechat.jpg)
 
