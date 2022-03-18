@@ -8,8 +8,8 @@
 </p>
 
 ### 食用指南
-**1.** `star` 一下仓库。有兴趣的小伙伴可以 `fork` 本仓库 并提交 `pr`。
-**2.** 关注公众号 <font color='red' size=4>**findyi**</font>，发送 <font color='red'>**pdf** 一键获取所有文件。</font>
+**1.** `star` 一下仓库。有兴趣的小伙伴可以 `fork` 本仓库 并提交 `pr`。<br>
+**2.** 关注公众号 <font color='red' size=4>**findyi**</font>，发送 <font color='red'>**pdf** 一键获取所有文件。</font><br>
 **3.** 欢迎关注我的 <font color='blue'>B站</font> 和 <font color='blue'>知乎</font>。
 
 <h2> 目录</h2>
