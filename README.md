@@ -28,8 +28,8 @@
 
 <h2>汇总</h2>
 我把电子书资源放在公众号【findyi】上了，扫码关注下面公众号，回复「pdf」 获取所有打包经典书籍资源:
-![](images/all.jpg)
+<img src='images/all.jpg'>
 
 <h2>微信公众号</h2>
-![](images/wechat.jpg)
+<img align='left' src='images/wechat.jpg'>
 
