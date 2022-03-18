@@ -1,6 +1,3 @@
----
-title: README
----
 <h1 align="center">Findyi 的书单分享</h1>
 
 <p align='center'>
