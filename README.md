@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://github.com/pinefor1983" target="_blank"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%40findyi-black?style=flat-square&logo=GitHub"></a>
-<a href="https://sm.ms/image/aus8qZozUGAkhVS" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40findyi-black?style=flat-square&logo=Zhihu"></a>
+<a href="https://www.zhihu.com/people/yi-yang-91-9" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%40findyi-black?style=flat-square&logo=Zhihu"></a>
 <a href="https://sm.ms/image/aus8qZozUGAkhVS" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40findyi-black?style=flat-square&logo=WeChat"></a>
 <a href="https://space.bilibili.com/7936249" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-%40findyi-black?style=flat-square&logo=Bilibili"></a>
 </p>
