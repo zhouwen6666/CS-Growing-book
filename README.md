@@ -6,6 +6,7 @@
 <a href="https://sm.ms/image/aus8qZozUGAkhVS" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40findyi-black?style=flat-square&logo=WeChat"></a>
 <a href="https://space.bilibili.com/7936249" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-%40findyi-black?style=flat-square&logo=Bilibili"></a>
 </p>
+
 ### 食用指南
 **1.** `star` 一下仓库。有兴趣的小伙伴可以 `fork` 本仓库 并提交 `pr`。
 **2.** 关注公众号 <font color='red' size=4>**findyi**</font>，发送 <font color='red'>**pdf** 一键获取所有文件。</font>
