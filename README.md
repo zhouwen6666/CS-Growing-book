@@ -7,9 +7,6 @@
 <a href="https://space.bilibili.com/7936249" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-%40findyi-black?style=flat-square&logo=Bilibili"></a>
 </p>
 
-###  经典编程书籍简介:
-我把大学和工作中用的经典电子书库（包含JAVA、数据结构、操作系统、C++/C、redis、mysql、算法、中间件、找工作面试题等）打包在一起了，这套资源是伴随我从学生一路成长为腾讯高级开发工程师，360技术总监的打包全套，非常宝贵。
-
 ### 食用指南
 强烈推荐一个良心微信公众号：**『findyi』**
 
@@ -20,9 +17,9 @@
 在这个公众号里，我专注于分享程序员认知提升，管理进阶等知识，是每个程序员的必修内功，同时我也整理基本覆盖所有常用电子书，在我的公众号通过关键字即可获取哦。
 
 <h2>目录</h2>
-[操作系统](#system)
+[操作系统](#操作系统)
 
-### <a name='system'></a> 操作系统
+## 操作系统
 - [图解系统-小林.pdf](https://pan.baidu.com/s/15zpEEhGLFy4gxv-44n8zJw?pwd=jo92)
 
 
