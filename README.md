@@ -33,6 +33,7 @@
 - [操作系统之哲学原理](https://pan.baidu.com/s/1nM5d-G-ENHLcyM0thIgk-g?pwd=he8i)
 - [计算机是怎样跑起来的](https://pan.baidu.com/s/1DI_3Oi-O_f125jai60oRPA?pwd=ehka)
 - [现代操作系统](https://pan.baidu.com/s/1lnRpQjcdcel7m0JOaBN-aQ?pwd=2rju)
+- [手绘图解计算机基础](https://pan.baidu.com/s/1sGcfw8rDHKwOgNY2XdCZYg?pwd=ve45)
 
 ### 数据库
 - [高性能MySQL](https://pan.baidu.com/s/1A_YQfN7d0Io9TGXsfoQcrg?pwd=dwe3)
@@ -43,6 +44,8 @@
 
 ### 网络&Linux
 - [网络是怎样连接的](https://pan.baidu.com/s/11Q4KXEpFWM5KyFqJToOgeA?pwd=wkc5)
+- [图解网络](https://pan.baidu.com/s/1ixzGcWSz6be2VniM7nDcLw?pwd=v9jg)
+- [手绘图解HTTP](https://pan.baidu.com/s/1V562EWUDzuSu8Fgpp1Tpug?pwd=af3y)
 - [图解TCP/IP](https://pan.baidu.com/s/13VnUNDbTxiDWtyUnwUJ-Nw?pwd=xe3p)
 - [HTTP权威指南](https://pan.baidu.com/s/19QP1Kbpggrsn8wcy_hHu-g?pwd=8rqg)
 - [图解HTTP](https://pan.baidu.com/s/1rO4FiOM9VVUx0Hg-GvZjQQ?pwd=vdkc)
@@ -68,6 +71,7 @@
 - [Head First设计模式](https://pan.baidu.com/s/1oSRKxQ8OqIr7xTjB_gEWzg?pwd=f8yx)
 - [设计模式之禅](https://pan.baidu.com/s/1f0r7UTLUUpu0Lpui1c9yqA?pwd=uwwe)
 - [图解设计模式2](https://pan.baidu.com/s/1Sb_BhH3Ny7uqNiW9jTYt4w?pwd=7mvn)
+- [重学Java设计模式](https://pan.baidu.com/s/1Ke4xYAXGa3jcDH-_N7hAvg?pwd=865y)
 
 ### 编程
 - [编程之美](https://pan.baidu.com/s/1SyzsY_jQGUYo2HxwDroBYA?pwd=qxjd)
@@ -79,6 +83,7 @@
 - [Effective Java](https://pan.baidu.com/s/1JxWPJhh4nkhg1-0nUDRQPQ?pwd=fpj2)
 - [Head First Java](https://pan.baidu.com/s/1Xme52mQp1HhBH41-xrHT2Q?pwd=f7x5)
 - [Java编程思想](https://pan.baidu.com/s/1MF0243hznoF3rW8DB52hbA?pwd=x6c8)
+- [Python黑魔法指南](https://pan.baidu.com/s/1hb4-_ye2LaVBDM0gINlZMg?pwd=rcfw)
 - [Python数据处理](https://pan.baidu.com/s/1WFvWM8Z0EvGI6t8lBuRNiw?pwd=4iub)
 - [Python编程初学者指南](https://pan.baidu.com/s/1q9cNqEdyQbzixkg27C5cjw?pwd=g771)
 - [Python高性能编程](https://pan.baidu.com/s/10xN0Ahj645D9kH4h8lRT0w?pwd=a52u)
@@ -92,6 +97,9 @@
 
 ### 面试
 - [Java架构师面试题](https://pan.baidu.com/s/1HGiAcBHK84V6DVsM_dyacA?pwd=udak)
+- [Java基础知识篇](https://pan.baidu.com/s/1a9fILz2Bd6YXSTJMGr89jA?pwd=skwe)
+- [Java集合框架常见面试题](https://pan.baidu.com/s/1cJIE3RWWXHtT6_9mEvr4rA?pwd=eijc)
+- [JavaGuide面试突击版](https://pan.baidu.com/s/1z47YXkDsmxb_2FfiV2zsLg?pwd=gpik)
 - [MySQL面试题详解](https://pan.baidu.com/s/10kOyFts6p7kJfC1OzVDe0g?pwd=rjse)
 - [C&C++ 面试题](https://pan.baidu.com/s/1Cd6bJfg9g5Xlf2h6Fb3bng?pwd=n4ep)
 - [Python面试题](https://pan.baidu.com/s/1q6GDl_Edwnzp_b6JLp4vkw?pwd=n2re)
