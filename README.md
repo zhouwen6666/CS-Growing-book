@@ -16,7 +16,7 @@
 
 在这个公众号里，我专注于分享程序员认知提升，管理进阶等知识，是每个程序员的必修内功，同时我也整理基本覆盖所有常用电子书，在我的公众号通过关键字即可获取哦。
 
-<h2>目录</h2>
+<h2>目录（善用 ctrl + f）</h2>
 
 [操作系统](#操作系统)<br>
 [数据库](#数据库)<br>
@@ -28,18 +28,21 @@
 [思维与认知](#思维与认知)<br>
 
 ### 操作系统
-- [图解系统-小林](https://pan.baidu.com/s/1Qt1oVoyXDE-qVllLbWMd1g?pwd=xyyv)
 - [30天自制操作系统](https://pan.baidu.com/s/14KoM_fuDRa2mwqmmUJ2QWA?pwd=dv89)
 - [操作系统之哲学原理](https://pan.baidu.com/s/1nM5d-G-ENHLcyM0thIgk-g?pwd=he8i)
 - [计算机是怎样跑起来的](https://pan.baidu.com/s/1DI_3Oi-O_f125jai60oRPA?pwd=ehka)
 - [现代操作系统](https://pan.baidu.com/s/1lnRpQjcdcel7m0JOaBN-aQ?pwd=2rju)
 - [手绘图解计算机基础](https://pan.baidu.com/s/1sGcfw8rDHKwOgNY2XdCZYg?pwd=ve45)
+- [图解系统-小林](https://pan.baidu.com/s/1Qt1oVoyXDE-qVllLbWMd1g?pwd=xyyv)
 
 ### 数据库
 - [高性能MySQL](https://pan.baidu.com/s/1A_YQfN7d0Io9TGXsfoQcrg?pwd=dwe3)
 - [MySQL技术内幕](https://pan.baidu.com/s/1DTIK4hcjGQAot46ES0uw_g?pwd=un8c)
 - [MySQL必知必会](https://pan.baidu.com/s/126n8yk6wH6g8lVC8_FeIjA?pwd=mk85)
 - [深入浅出MySQL](https://pan.baidu.com/s/1nq_n0RwDMOCErjSVHYe_HQ?pwd=a8tv)
+- [MySQL性能优化的21个最佳实践](https://pan.baidu.com/s/1UPjHCUgkYInJdBDpA1g9Hw?pwd=r146)
+- [索引其实就这么回事](https://pan.baidu.com/s/11NJgpdSKdLQ_LySBheQBCQ?pwd=4in3)
+- [深入浅出SQL](https://pan.baidu.com/s/1LKBRE7wgJTbaXv1gwYPsWg?pwd=jh62)
 - [Redis实战](https://pan.baidu.com/s/13AaelonbL46H9IaIThz8WQ?pwd=r7kd)
 
 ### 网络&Linux
@@ -94,6 +97,8 @@
 - [HTML5揭秘](https://pan.baidu.com/s/1AECVi-seOjoXracdOy0Hvg?pwd=kiu8)
 - [JavaScript高级程序设计（第3版）](https://pan.baidu.com/s/1XeFUZ4dOIeTrOEOdS7cAPw?pwd=yrit)
 - [Go Web编程](https://pan.baidu.com/s/1bpgHZG7Qu3JCxlyXoBi2_g?pwd=pg21)
+- [Go语言高级编程](https://pan.baidu.com/s/1__AXLWDd3WR1hCuiFOMUFA?pwd=cute)
+- [PyTorch深度学习实战](https://pan.baidu.com/s/1Mxrqz-alA6zc8JjKlM0P5w?pwd=yhpv)
 
 ### 面试
 - [Java架构师面试题](https://pan.baidu.com/s/1HGiAcBHK84V6DVsM_dyacA?pwd=udak)
